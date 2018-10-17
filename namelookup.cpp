@@ -10,7 +10,7 @@
  *     
  *
  ***************************************************************************/
-//This is a dumb comment
+//Lets agree to just have this one comment
 #include <sys/stat.h>
 #include <iostream>
 #include <fstream>
